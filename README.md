@@ -1,4 +1,4 @@
-# OpenGLLightingFractals
+# OpenGLLightingFractals | Created: November 2021
 A fractal is a never-ending, opr increasingly complex pattern. I coded a few examples in this code and included lighting to better showcase the fractals. The fractals I coded are 3D Sierpinski triangle and Menger Sponge. In addition, I have also included a scene that shows multiple 3D shapes to showcase the lighting on different objects.
 
 The following gif shows the 3D Sierpinski Triangle:
